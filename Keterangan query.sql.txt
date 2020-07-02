@@ -1,0 +1,3 @@
+KETERANGAN :
+database.sql merupakan backup data sql apabila query.sql tidak dapat
+dibuka.
